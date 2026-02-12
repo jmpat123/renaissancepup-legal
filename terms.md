@@ -9,7 +9,7 @@ By using Renaissance Pup ("the App"), you agree to these Terms of Service. If yo
 
 ## Description of Service
 
-Renaissance Pup transforms your dog photos into Renaissance-style oil portraits using artificial intelligence. The App requires Sign in with Apple and an active internet connection.
+Renaissance Pup transforms photos of your pets (and their humans) into Renaissance-style oil portraits using artificial intelligence. The App requires Sign in with Apple and an active internet connection.
 
 ## Accounts
 
