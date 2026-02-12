@@ -70,4 +70,4 @@ These terms are governed by the laws of the United States.
 
 For questions about these terms, contact us at:
 
-**renaissancepup@gmail.com**
+**renaissancepupapp@gmail.com**

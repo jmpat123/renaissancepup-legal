@@ -75,4 +75,4 @@ We may update this policy from time to time. The "Last updated" date at the top 
 
 If you have questions about this privacy policy or want to request data deletion, contact us at:
 
-**renaissancepup@gmail.com**
+**renaissancepupapp@gmail.com**
