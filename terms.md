@@ -44,7 +44,7 @@ Renaissance Pup transforms your dog photos into Renaissance-style oil portraits 
 You agree not to:
 - Use the App for any unlawful purpose
 - Attempt to reverse-engineer or modify the App
-- Submit photos that are not of dogs or that contain inappropriate content
+- Submit photos that contain inappropriate or offensive content
 - Attempt to circumvent credit or payment systems
 
 ## Disclaimers
