@@ -45,7 +45,7 @@ We do not use third-party analytics or tracking SDKs.
 ## Third-Party Services
 
 ### Google Gemini API
-Your dog photos are sent to Google's Gemini API for image transformation. Google's privacy policy applies to their processing of this data. Google may apply an invisible SynthID watermark to generated images for AI provenance tracking.
+Your dog photos are sent to Google's Gemini API for image transformation. Google's privacy policy applies to their processing of this data and Google provides the same or equal protection of your personal data as described in this policy. Google does not retain your photos after processing is complete. Google may apply an invisible SynthID watermark to generated images for AI provenance tracking.
 
 ### Apple Sign In & StoreKit
 Authentication and payments are handled by Apple. Apple's privacy policy governs their handling of your sign-in and payment data.
